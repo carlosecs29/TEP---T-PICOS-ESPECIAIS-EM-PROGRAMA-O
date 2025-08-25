@@ -1,0 +1,1 @@
+Aula 1 19.Ago - Tivemos que desenvolver uma apresentação de uma loja ficticia que está vendendo morango do amor. e nessa apresentação contém uma arte, um audio descrevendo o produto e uma trilha sonora.
