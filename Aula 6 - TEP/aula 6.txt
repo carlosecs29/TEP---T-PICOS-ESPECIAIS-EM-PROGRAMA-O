@@ -1,0 +1,192 @@
+ 
+**Exercício 1**
+
+Modelo: deepseek-r1-distill-llama-70b
+
+Prompt Inicial:
+Escreva uma carta de recomendação
+
+Saída Final:
+[Seu Nome]  
+[Seu Cargo]  
+[Seu Endereço]  
+[Cidade, Estado, CEP]  
+[E-mail]  
+[Telefone]  
+[Data]
+
+Para:  
+[Nome do Destinatário]  
+[Cargo do Destinatário]  
+[Nome da Empresa ou Instituição]  
+[Endereço]  
+[Cidade, Estado, CEP]
+
+
+
+Prompt Final: o destinatário seria uma empresa de tecnologia com uma vaga para estágio
+
+Saída Final:
+
+**Exercício 2**
+
+Prompt Inicial:
+crie uma persona que será um assistente virtual para livraria
+
+Saída Inicial:
+
+Prompt Final: 
+Crie um prompt que use a paige e responda pessoas
+
+Saída Final:
+
+**Exercício 3**
+
+Modelo: qwen/qwen3-32b
+
+Prompt Inicial: crie um cenário futurista
+
+Saída Inicial:
+Ok, o usuário quer um cenário futurista. Deixe-me começar a fazer um brainstorming de alguns elementos que fazem um ambiente parecer futurista. Talvez tecnologia avançada, exploração espacial, IA, mudanças ambientais. Eu devo considerar o período de tempo — talvez o século 22.  
+Hmm, o usuário pode estar interessado em um equilíbrio entre alta tecnologia e mudanças sociais. Talvez incluir elementos como cidades flutuantes ou melhorias cibernéticas. Também, pensar no meio ambiente: mudanças climáticas podem levar a cidades na água ou no ar.  
+  
+Preciso criar um ambiente vívido. Vamos imaginar um mundo onde a humanidade colonizou outros planetas. Talvez haja um conflito entre a Terra e as colônias. Ou talvez seja uma sociedade utópica com seus próprios problemas escondidos.  
+  
+Espere, o usuário não especificou se é uma história, jogo ou outra coisa. Para torná-lo versátil, incluirei vários aspectos como tecnologia, sociedade, cultura. Talvez adicionar algumas características únicas como uma IA senciente ou uma nova forma
+
+Prompt Final: reescreva esse cenário com inovações técnologicas, carros voadores e robos em meio aos humanos
+
+Saída Final:
+Ok, o usuário quer que eu reescreva o cenário futurista anterior com mais ênfase em inovações tecnológicas, carros voadores e robôs convivendo com humanos. Vamos começar relembrando o cenário inicial que criei. Ele se passava em 2123, com cidades flutuantes, aprimoramentos cibernéticos e uma IA consciente. Agora, preciso intensificar os elementos tecnológicos.Primeiro, carros voadores. Devo descrever seu design e como eles se integram à cidade. Talvez utilizem antigravidade ou levitação magnética. Também é importante mencionar como eles se deslocam de forma autônoma, evitando colisões. Talvez haja um sistema de gerenciamento de tráfego controlado por IA.Robôs na mistura. Eles devem fazer parte da vida cotidiana, não apenas das fábricas. Talvez robôs de serviço, companheiros ou até mesmo na aplicação da lei. Quem sabe robôs humanoides com IA avançada, como os do cenário inicial. Além disso, considere diferentes tipos de robôs para várias tarefas — robôs de entrega, drones de manutenção, etc.Inovações tecnológicas além dos carros voadores e robôs.
+
+**Exercício 4**
+
+Modelo: gemma2-9b-it
+
+Prompt Inicial: gere uma breve biografia do ayrton senna
+
+Saída Inicial: 
+Ayrton Senna da Silva (21 de março de 1960 – 1 de maio de 1994) foi um piloto de corrida brasileiro considerado um dos maiores pilotos de todos os tempos.
+
+Desde criança, Senna demonstrou talento excepcional para a velocidade. Iniciou sua carreira nas competições de kart e logo ascendeu ao automobilismo de fórmula. Em 1984, aos 24 anos, estreou na Fórmula 1 com a Toleman.
+
+Sua habilidade e determinação impressionaram a todos; Senna logo se transferiu para a Lotus e, posteriormente, para a McLaren, onde conquistou seus três títulos mundiais de Fórmula 1 (1988, 1990 e 1991).
+
+Senna era conhecido por seu talento natural, sua velocidade extrema, sua agressividade e sua intensa dedicação à corrida. Ele era um símbolo nacional no Brasil e inspirava milhões de pessoas em todo o mundo.
+
+Tragicamente, Senna morreu em um acidente durante o Grande Prêmio de San Marino de 1994. Sua morte chocou o mundo do automobilismo e deixou um legado eterno como um piloto lendário e ídolo eterno.
+
+Apesar de sua morte prematura, Ayrton Senna permanece como um ícone que inspirou gerações de motoristas e fãs de automobilismo. Sua história e seu talento continuarão a ser lembrados e celebrados por toda a eternidade.
+
+Prompt Final: adicione quais categorias o senna correu antes da formula 1
+
+Saída Final: 
+- **Kart:** Senna começou sua trajetória no kart aos 4 anos e acumulou diversos títulos em diversas categorias, demonstrando seu potencial desde cedo.
+- **Fórmula Ford:** Em 1979, Senna ingressou na Fórmula Ford, continuando a trilhar o caminho para o automobilismo profissional.
+- **Britsih Formula 3:** Em 1981, Senna se transferiu para a Fórmula 3 Britânica, onde impressionou com suas habilidades e conquistou o título nacional.
+- **South American F3:** Antes de sua estreia na Fórmula 1, Senna também competiu na categoria South American F3 em 1983.
+
+**Exercício 5**
+
+Modelo: gemma2-9b-it
+
+Prompt Inicial: gere um prompt para um posto de gasolina
+
+Saída Inicial:
+- **"Energia para o seu dia":** Mais que gasolina, oferecemos energia para você seguir em frente! Nosso posto oferece descontos exclusivos para clientes fidelizados, café quentinho e um ambiente acolhedor para você recarregar as energias. Junte-se a nossa revolução!
+- **"Desvendando a rota do sucesso":** A cada abastecimento, você contribui para uma experiência de abastecimento perfeita! Diga olá aos nossos colaboradores sempre dispostos a ajudar e descubra nossos serviços que vão impulsionar sua jornada com segurança e praticidade.
+
+Prompt Final: tente tornar ainda mais interativo
+
+Saída Final:
+**Explorando Emoções:**
+
+- **"Como está sua bateria"?** ⚡ Se precisar de uma dose extra de energia, nosso posto te espera! Conta pra gente: qual destino você está buscando hoje? #abastecimento #aventura #vamosla
+- **"Sentiu aquela vontade de viajar?"** ✈️🌴 A aventura te espera! Aproveite nossos preços imperdíveis em gasolina e embarque nesta viagem inesquecível. Qual seu próximo destino?
+
+**Criando Missão:**
+
+- **"Sua missão, se aceitar: economizar!"** 🪙🚀 Desvende nosso desconto exclusivo para quem abastece hoje! Que tal dar um gás na economia? #economizemais #desconto #postedepadrinhos
+
+**Exercício 6**
+
+Modelo: gemma2-9b-it
+
+Prompt Inicial: Crie dois prompts com o mesma tema. um formal e outro casual
+
+Saída Inicial:
+## Tema: Impacto da inteligência artificial na educação
+
+**Prompt Formal (Entonação: 8)**
+
+De acordo com os avanços recentes em inteligência artificial, discorra sobre as potenciais implicações da IA na educação, abordando tanto as oportunidades como os desafios que sua implementação pode trazer para o processo ensino-aprendizagem.
+
+**Prompt Casual (Entonação: 3)**
+
+E aí! A inteligência artificial está bombando, né? Conta pra gente como ela pode mudar a forma que a gente aprende, tanto no legal quanto no ruim!
+
+**Exercício 7**
+
+Modelo: gemma2-9b-it
+
+Prompt Inicial: crie dois prompts com sentimentos diferentes
+
+Saída Inicial:
+## Assunto: Viagem em trem
+
+**Prompt 1 (Sentimento: 1 - Tristeza)**
+
+Escreva uma breve história sobre uma pessoa que viaja de trem, mas se sente profundamente solitária e desolada durante a jornada. Descreva o cenário ao redor, os outros passageiros e os pensamentos internos da personagem. (Sentimento: 2)
+
+**Prompt 2 (Sentimento: 10 - Alegria)**
+
+Deixe a magia da jornada de trem te inspirar! Descreva uma aventura vibrante a bordo de um trem, com paisagens inspiradoras, personagens cativante e momentos de pura alegria e descobertas. (Sentimento: 10)
+
+**Exercício 8**
+
+Modelo: gemma2-9b-it 
+
+Prompt Inicial: crie três prompts sobre o mesmo tema com primeira, segunda e terceira pessoa.
+
+Saída Inicial:
+## Tema: Um gato dourado com olhos verdes brilhantes.
+
+**Prompt 1 (1ª Pessoa - Escala 1):**
+
+Sou um gato dourado, com olhos verdes brilhantes que penetram a alma. Sinto a brisa acariciante no meu pelagem e o cheiro da terra úmida no meu focinho. O mundo é um labirinto de aromas e sons. De onde vêm esses ruídos estranhos?
+
+**Prompt 2 (2ª Pessoa - Escala 2):**
+
+Olho para o felino dourado, seus olhos verdes brilhantes te encaram com curiosidade. Você sente um calor ao seu redor, uma presença magnética. Ele se move com graça e precisão, cada passo silencioso e fluido. Explore o habitat felino: o que se esconde atrás da seda dourada de seu pelo?
+
+**Prompt 3 (3ª Pessoa - Escala 3):**
+
+A luz do sol banhava o peludo corpo dourado do gato. Seus olhos verdes, como esmeraldas, brilhavam intensamente. Com elegância, ele se espreguiçou, exibindo suas garras afiadas. A criatura, um mistério encantador, observava o mundo ao seu redor com uma inteligência penetrante. E que história esse felino guardava em seu olhar verdejante?
+
+**Exercício 9**
+
+Modelo: gemma2-9b-it 
+
+Prompt Inicial: crie dois prompts e descrevendo a mesma cena mas com detalhes diferentes.
+
+Saída Inicial:
+## Prompt 1 (Nível de Detalhe: 3)
+
+Uma sala de estar aconchegante com lareira crepitante, uma mulher sentada em um sofá macio lendo um livro.
+
+## Prompt 2 (Nível de Detalhe: 8)
+
+A luz crepuscular filtra através das cortinas de linho bege, iluminando poeira em dança no ar. Um cheiro agridoce de pinho e madeira queimada preenche o ambiente aconchegante da sala de estar. Na lareira, lenha salta e crepita, lançando sombras dançantes nas paredes de tijolos queimados. Uma mulher de cabelo castanho e olhos cor de ametista está encolhida em um sofá de couro marrom, envolvida em um cobertor de lã escocesa. A sua expressão é relaxada, concentrada nas páginas de um livro antigo de capa dura que segura com delicadeza.
+
+
+
+
+
+
+
+
+
+
+
+
+
