@@ -1,0 +1,30 @@
+# 📚 Aula 10 - Produção de Conteúdo e Automação
+
+## 🎯 Objetivo
+- Montar **5 postagens** para a próxima aula.
+- Cada postagem deve contemplar diferentes formatos:
+  - 📷 Foto
+  - 🎥 Vídeo
+  - 📱 Stories
+
+---
+
+## 📝 Estrutura das Postagens
+- Definir **temas** (a serem escolhidos).
+- Cada tema deve ser adaptado para os três formatos (foto, vídeo e stories).
+- Foco na **variação de conteúdo** mantendo a mesma ideia central.
+
+---
+
+## ⚙️ Parte Técnica
+- **Trocar o trigger** → ajustar o gatilho de execução no fluxo (exemplo: tempo).
+  - Permite que o fluxo seja disparado automaticamente em intervalos ou horários definidos.
+  - Exemplo: configurar para que as postagens sejam geradas ou agendadas a cada X horas ou em um horário específico.
+
+---
+
+## 📌 Conclusão
+A aula foi voltada para:
+1. **Produção de conteúdo multimídia** (foto, vídeo, stories).
+2. **Planejamento temático** das postagens.
+3. **Automação técnica** via troca de trigger, tornando o fluxo mais dinâmico e escalável.

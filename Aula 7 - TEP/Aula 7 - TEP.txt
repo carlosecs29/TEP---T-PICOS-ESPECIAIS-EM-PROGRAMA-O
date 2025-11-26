@@ -1,0 +1,40 @@
+1. Portainer
+O que é: uma ferramenta de gerenciamento de containers (Docker e Kubernetes) com interface gráfica.
+
+Na aula: foi mostrado como instalar e configurar o Portainer para facilitar a administração dos containers sem depender apenas de comandos no terminal.
+
+Pontos principais:
+
+Instalação via Docker (docker run ...).
+
+Acesso ao painel web para criar, monitorar e remover containers.
+
+Vantagem: simplifica a gestão de ambientes complexos, ideal para quem está começando ou para equipes que precisam de agilidade.
+
+📌 2. Evolution
+O que é: pode se referir ao Evolution Groupware, cliente de e-mail e calendário usado em ambientes Linux, ou a um sistema interno/projeto chamado “Evolution”.
+
+Na aula: o foco foi na configuração e uso desse componente como parte da stack de serviços.
+
+Pontos principais:
+
+Instalação e integração com outros serviços.
+
+Uso para comunicação e organização (e-mails, agendas, contatos).
+
+Demonstração de como ele se conecta com servidores e bancos de dados.
+
+📌 3. Oracle CMD
+O que é: utilização do Oracle Database via linha de comando (CMD).
+
+Na aula: foi abordado como criar e executar comandos básicos para manipular dados e administrar o banco.
+
+Pontos principais:
+
+Conexão ao banco via terminal.
+
+Execução de queries SQL (SELECT, INSERT, UPDATE).
+
+Administração de usuários e permissões.
+
+Importância de dominar o CMD para automação e scripts.

@@ -1,0 +1,25 @@
+# 🤖 Workflow n8n - Chat com Groq + LangChain
+
+Este workflow conecta o **n8n**, **LangChain** e o **Groq Chat Model** para processar mensagens recebidas em tempo real.
+
+## Estrutura
+
+- **When chat message received** → Gatilho que inicia o fluxo ao receber uma mensagem.
+- **AI Agent** → Agente de IA que processa a mensagem.
+- **Groq Chat Model** → Modelo de linguagem Groq integrado ao agente.
+
+## Fluxo
+
+1. Uma mensagem chega pelo webhook (`chatTrigger`).
+2. O **AI Agent** é acionado.
+3. O **Groq Chat Model** interpreta a mensagem e gera a resposta.
+4. O agente retorna a saída processada.
+
+## Conexões
+
+- `chatTrigger → AI Agent`
+- `Groq Chat Model → AI Agent`
+
+---
+
+✨ Esse workflow é útil para criar **chatbots inteligentes** integrados ao n8n, aproveitando o poder do LangChain e Groq.

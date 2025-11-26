@@ -1,0 +1,12 @@
+# 📚 Aula 11 - Integração com Google Calendar
+
+## 🎯 Objetivo
+- Configurar e integrar o **Google Calendar** ao fluxo.
+
+##⚙️ Atividades
+- Conectar conta do Google Calendar.
+- Validar permissões de acesso.
+- Testar criação e sincronização de eventos.
+
+## 📌 Conclusão
+A aula focou na **integração prática** do Google Calendar, permitindo automatizar agendamentos e organizar tarefas diretamente no fluxo.
